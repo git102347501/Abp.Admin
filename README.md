@@ -1,5 +1,5 @@
 # Abp.Admin
-ABP vNext For Antd Desgin Admin
+ABP vNext Admin For Antd
 
 # Env
 - Abp vNext
